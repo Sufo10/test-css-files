@@ -5,6 +5,8 @@
   --ebook-toolbar-divider-color: #EBEBEB;
   --ebook-toolbar-icon-size: 1rem;
   --ebook-text-color: #383838;
+  --ebook-tooltip-padding: 0.5rem;
+  --ebook-tooltip-border-radius: 0.5rem;
 /*   --font-primary: 'Clash Grotesk', sans-serif; */
   --font-primary: 'Satoshi', sans-serif;
   /* --font-secondary: 'General Sans', sans-serif; */
