@@ -1,6 +1,7 @@
 :root {
   --ebook-primary-color: #985DEC;
   --ebook-primary-color-darker: #814FC9;
+  --ebook-primary-color-lighter: #F0E7FC;
   --ebook-toolbar-background: #FAFAFA;
   --ebook-toolbar-divider-color: #EBEBEB;
   --ebook-toolbar-icon-size: 1rem;
