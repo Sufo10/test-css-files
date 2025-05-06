@@ -1,0 +1,15 @@
+:root {
+  --ebook-primary-color: #9FB46C;
+  --ebook-primary-color-darker: #627739;
+  --ebook-primary-color-lighter: #E9EED9;
+  --ebook-toolbar-background: #FFFFFF;
+  --ebook-toolbar-divider-color: #EFEFEF;
+  --ebook-toolbar-icon-size: 1.5rem;
+  --ebook-text-color: #3A2828;
+  --ebook-common-spacing: 0.75rem;
+/*   --font-primary: 'Clash Grotesk', sans-serif; */
+  --font-primary: 'Satoshi', sans-serif;
+  /* --font-secondary: 'General Sans', sans-serif; */
+  --font-secondary: 'Fraunces', sans-serif;
+  /* --font-primary: 'Fraunces', sans-serif; */
+}
