@@ -1,8 +1,6 @@
 :root {
-  --ebook-button-text: blue;
-  --ebook-button-background: #000;
-  --ebook-button-text: blue;
-  --ebook-button-bg: #eee;
+  --ebook-primary-color: #985DEC;
+  --ebook-primary-darker: #814FC9;
 /*   --font-primary: 'Clash Grotesk', sans-serif; */
   --font-primary: 'Satoshi', sans-serif;
   /* --font-secondary: 'General Sans', sans-serif; */
